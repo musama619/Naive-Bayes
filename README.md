@@ -23,3 +23,5 @@ Naïve Bayes is a classification technique based on Bayes’ Theorem.
 3. Prosterior Probability
 
 ![image](https://user-images.githubusercontent.com/34093998/87832918-8763ab00-c8a0-11ea-8312-7dd314558b83.png)
+
+Link: https://www.saedsayad.com/naive_bayesian.htm
